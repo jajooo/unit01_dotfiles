@@ -1,9 +1,9 @@
 <h1 align="center">Unit-02 Dotfiles</h1>
 
-![rice](https://github.com/jajooo/unit02_dotfiles/assets/93209510/173bfe75-10a6-4e6a-8359-62180ca82a83)
-
 
 <p align="center">for Arch Linux Hyprland.</p>
+
+![rice](https://github.com/jajooo/unit02_dotfiles/assets/93209510/173bfe75-10a6-4e6a-8359-62180ca82a83)
 
 # Pywal is required!
 
