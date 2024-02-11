@@ -24,3 +24,5 @@ ln -s ~/.cache/wal/colors-discord.css ~/.config/Vencord/themes/pywal-vencord.the
 Go to Vencord and enable your theme
 ```
 
+# Firefox
+<p>For Firefox theme to work, you need to install Pywalfox extension and fetch pywal colors</p>
