@@ -19,7 +19,7 @@ sudo pacman -S python-pywal
 
 ```
 git clone https://github.com/ZephyrCodesStuff/pywal-vencord.git
-wal -i /home/jajo/Wallpapers/Unit-02.png
+wal -i ~/Wallpapers/Unit-01.png
 ln -s ~/.cache/wal/colors-discord.css ~/.config/Vencord/themes/pywal-vencord.theme.css
 Go to Vencord and enable your theme
 ```
