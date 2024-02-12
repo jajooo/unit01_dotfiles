@@ -1,4 +1,4 @@
-<h1 align="center">Unit-02 Dotfiles</h1>
+<h1 align="center">Unit-01 Dotfiles</h1>
 
 
 <p align="center">for Arch Linux Hyprland.</p>
