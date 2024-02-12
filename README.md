@@ -11,9 +11,6 @@
 sudo pacman -S python-pywal
 ```
 
-# Visual Studio Code
-<p>For Visual Studio Code theme to work, you need to install Wal Theme extension</p>
-
 # Discord
 <p>For Discord theme to work, you need to use a 3rd party client Vencord</p>
 
@@ -23,6 +20,9 @@ wal -i ~/Wallpapers/Unit-01.png
 ln -s ~/.cache/wal/colors-discord.css ~/.config/Vencord/themes/pywal-vencord.theme.css
 Go to Vencord and enable your theme
 ```
+
+# Visual Studio Code
+<p>For Visual Studio Code theme to work, you need to install Wal Theme extension</p>
 
 # Firefox
 <p>For Firefox theme to work, you need to install Pywalfox extension and fetch pywal colors</p>
